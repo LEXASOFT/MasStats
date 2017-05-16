@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">МасСтатс</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tab1">Общая статистика</string>
+    <string name="tab2">Ежедневная статистика</string>
+    <string name="fetching">загрузка ...</string>
+    <string name="pick_date">выбрать</string>
+
+    <string-array name="sites">
+        <item>lenta.ru</item>
+    </string-array>
+</resources>
